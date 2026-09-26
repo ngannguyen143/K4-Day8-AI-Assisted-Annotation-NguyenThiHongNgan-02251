@@ -1,0 +1,5 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,car_179 - xe gần giữa khung hình,added,Nhìn bằng mắt thì thấy khá rõ nhưng model lại ko label được
+1,frame_0182.jpg,car_195 - xe bị cắt bởi khung hình,added,1 nửa thân sau xe bị cắt khỏi khung hình
+1,frame_0107.jpg,car_21 - xe gần bên trái khung hình,edited,xe đang bao cả xe đằng sau
+1,frame_0326.jpg,105 - điểm sáng bên trái khung hình,deleted,model bị nhầm điểm sáng thành xe
